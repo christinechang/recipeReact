@@ -1,0 +1,17 @@
+/*filteringStuff.css found at:https://codepen.io/anon/pen/mepogj */
+.btn {
+  color: black;
+  border: 1px solid #777;
+  background: #fff;
+}
+
+.active, .btn:hover {
+  background: green;
+  color: #fff;
+}
+
+.tagStyle {
+    background: red;
+    padding: 5px;
+    margin:10px
+}
